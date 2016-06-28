@@ -1,4 +1,4 @@
-# :department_store: Shopify-Checkout-CSS-Reset
+# Shopify-Checkout-CSS-Reset
 
 ### What does it do?
 
